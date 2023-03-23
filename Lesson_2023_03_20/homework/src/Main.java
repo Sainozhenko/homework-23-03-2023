@@ -7,7 +7,6 @@ public class Main {
         System.out.println("Площадь прямоугольника: " + rectangle.getSquare());
         System.out.println("Периметр круга: " + circle.getPerimeter());
         System.out.println("Площадь круга: " + circle.getSquare());
-
     }
    /* Output:
 Периметр прямоугольника: 20.0
